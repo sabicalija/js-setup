@@ -1,0 +1,26 @@
+{
+  "name": "js-setup",
+  "version": "1.0.0",
+  "description": "= Learning JavaScript, 3rd Edition  == Chapter 2: JavaScript Development Tools",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabicalija/setup.git"
+  },
+  "author": "Alija Sabic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabicalija/setup/issues"
+  },
+  "homepage": "https://github.com/sabicalija/setup#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.41",
+    "babel-preset-env": "^2.0.0-alpha.20",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-eslint": "^4.0.2"
+  }
+}

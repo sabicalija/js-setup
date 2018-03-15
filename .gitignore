@@ -7,3 +7,7 @@ node_modules
 # temporary files
 *.tmp
 *~
+
+# gulp created files (es5)
+dist
+public/dist

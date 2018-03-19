@@ -2,3 +2,31 @@
 == Chapter 2: JavaScript Development Tools
 
 In this chapter we're learning about Git and other development tools.
+
+== Overview
+
+[options="header",cols="a,a",width=100%]
+|===
+| Topic
+| Folders 
+
+| Git
+| 
+* .git/
+* .gitignore
+
+| npm
+|
+* package.json
+* node_modules
+
+| Node source
+|
+* es6/
+* dist/
+
+| Browser source
+|
+* public/
+** es6/
+** dist/
